@@ -1,0 +1,22 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.backImg{
+	width: 100%;
+	height: 100vh;
+	background-image: url(khight.jpg);
+	background-size: cover;
+	display: flex;
+	align-items: center;
+}
+
+.profile{
+	width: 400px;
+}
+
+img{
+	height: 250px;
+	border-radius: 70%
+}
